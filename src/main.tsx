@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import "./style.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./event";
 import "@fontsource/roboto/300.css";
